@@ -1,0 +1,20 @@
+{
+  "name": "searchfounder",
+  "version": "1.0.0",
+  "description": "Take-home task for Dealum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Musali <samir.musali@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smusali/searchFounder.git"
+  },
+  "keywords": [],
+  "homepage": "https://github.com/smusali/searchFounder#readme",
+  "bugs": {
+    "url": "https://github.com/smusali/searchFounder/issues"
+  }
+}
